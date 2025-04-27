@@ -11,6 +11,7 @@ public class Main {
         // Add items to inventory
         inventory.addItem(apple);
         inventory.addItem(laptop);
+        inventory.addItem(bathtub);
 
         // Print all items using polymorphism
         System.out.println("Inventory Details:");
